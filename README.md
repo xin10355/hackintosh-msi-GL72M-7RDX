@@ -19,4 +19,4 @@ I have functioning builds for both Clover and OpenCore. The OpenCore build still
 - Broadcom DW1820A BCM94350ZAE 2.4G/5G Dual Band 867Mbps M.2 NGFF WiFi Card with Bluetooth 4.1
 
 ### BIOS
- enter CTRL + RIGHT SHIFT + ALT and F2 left
+ enter CTRL + RIGHT SHIFT + ALT and F2 left to access advance settings
